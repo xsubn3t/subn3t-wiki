@@ -1,45 +1,40 @@
-# Welcome to SubN3t 
+# <p align="center">SubN3t</p>
 
-!!! abstract "Who am I?"
-    I am a **Cybersecurity Student** (Bachelor) and an **Operational Reservist** in the French Navy.  
-    Currently focusing on **Red Teaming**, **Active Directory Exploitation**, and **Binary Analysis**.
+<p align="center">
+  <strong>Bachelor Cyberdéfense — EPITA & École Polytechnique</strong><br>
+  <em>Spécialisation Offensive & Sécurité des Systèmes</em>
+</p>
+
+---
+
+##  Derniers Travaux
+
+!!! abstract "🚀 Dernière Certification"
+    **[Review eJPT - Junior Penetration Tester](./Certifications/EJPT.md)**
     
-    This documentation serves as my "Digital Brain" where I store my research, write-ups, and attack methodologies.
+    Retrouvez ma review complète de l'eJPT : Analyse des machines, outils utilisés (Metasploit, Nmap) et méthodologie pour l'examen pratique.
 
 ---
 
-### 🏆 Certifications & Achievements
 
-![eJPT](https://img.shields.io/badge/eJPT-Certified-red?style=for-the-badge&logo=hackthebox) 
-![CRTA](https://img.shields.io/badge/CRTA-Preparing-orange?style=for-the-badge&logo=kalilinux)
-![Reservist](https://img.shields.io/badge/French_Navy-Reservist-blue?style=for-the-badge&logo=general-dynamics)
+## Profil Académique
 
----
+!!! info "Cursus"
+    Étudiant au sein du cursus conjoint **EPITA / École Polytechnique**. Cette formation hybride allie rigueur académique et expertise technique de pointe en cyberdéfense.
 
-### 🚀 Current Focus
-
-I am currently deep-diving into the **Certified Red Team Analyst (CRTA)** by *CyberWarFare Labs*. My goal is to master the entire Kill Chain, from external reconnaissance to Domain Admin compromise.
-
-!!! success "Latest Learning"
-    **Binary Exploitation:** Completed the HackTheBox path involving Buffer Overflows, ROP Chains, and GDB analysis. [Read the Write-up here](./Writeups/HTB-Binary.md)
+> "Savoir attaquer pour mieux durcir."
 
 ---
 
-### 📂 Explore my Notes
+## Contact & Plateformes
 
-| Section | Content |
-| :--- | :--- |
-| **[💥 Writeups](./Writeups/HTB-Binary.md)** | Detailed solutions for CTF machines (HTB, Root-Me) and real-world scenarios. |
-| **[🛡️ Cheatsheets](./Cheatsheets/Active-Directory.md)** | My personal commands for AD, PowerShell, Linux, and Evasion. |
-| **[🎓 Certifications](./Certifications/CRTA-notes.md)** | Study notes and reviews of my certifications (eJPT, CRTA...). |
+<p align="center">
+  <a href="https://linkedin.com/in/ton-profil" class="md-button md-button--primary">LinkedIn</a>
+  <a href="https://github.com/xsubn3t" class="md-button">GitHub</a>
+</p>
 
----
-
-### 📫 Connect with Me
-
-* **GitHub:** [github.com/ton-pseudo](https://github.com/)
-* **LinkedIn:** [linkedin.com/in/ton-profil](https://linkedin.com/)
-* **Email:** [contact@subn3t.fr](mailto:contact@subn3t.fr)
-
-!!! quote "Philosophy"
-    *"The only way to truly secure a system is to understand how to break it."*
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/ID" class="md-button">HackTheBox</a>
+  <a href="https://www.root-me.org/ID" class="md-button">Root-Me</a>
+  <a href="https://tryhackme.com/p/ID" class="md-button">TryHackMe</a>
+</p>

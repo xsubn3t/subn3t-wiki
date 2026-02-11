@@ -1,4 +1,4 @@
-site_name: SubN3t | Cyber Portfolio
+site_name: SubN3t | Portfolio
 site_url: https://subn3t.fr
 repo_url: https://github.com/xsubn3t/subn3t-wiki
 edit_uri: ""
@@ -24,12 +24,18 @@ theme:
     - navigation.tabs        # Menu en haut
     - navigation.sections
     - search.suggest         # Recherche style Google
-    - content.code.copy      # Bouton copier pour le code
+    - content.code.copy 
+  favicon: favicon.ico     # Bouton copier pour le code
 
 markdown_extensions:
+  - attr_list                # couleur bouton
   - admonition               # Boites d'info
   - pymdownx.highlight:      # Couleurs du code
       anchor_linenums: true
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.snippets
