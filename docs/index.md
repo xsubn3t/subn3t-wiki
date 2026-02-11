@@ -29,12 +29,11 @@
 ## Contact & Plateformes
 
 <p align="center">
-  <a href="https://linkedin.com/in/ton-profil" class="md-button md-button--primary">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/adam-abid-a10472384/" class="md-button md-button--primary">LinkedIn</a>
   <a href="https://github.com/xsubn3t" class="md-button">GitHub</a>
 </p>
 
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/ID" class="md-button">HackTheBox</a>
-  <a href="https://www.root-me.org/ID" class="md-button">Root-Me</a>
-  <a href="https://tryhackme.com/p/ID" class="md-button">TryHackMe</a>
+  <a href="https://app.hackthebox.com/users/2379581?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs" class="md-button">HackTheBox</a>
+  <a href="https://www.root-me.org/subn3t?lang=fr#06ab797391d0988c8e9e332c28e0191e" class="md-button">Root-Me</a>
 </p>
