@@ -1,0 +1,35 @@
+site_name: SubN3t | Cyber Portfolio
+site_url: https://subn3t.fr
+repo_url: https://github.com/xsubn3t/subn3t-wiki
+edit_uri: ""
+
+theme:
+  name: material
+  palette: 
+    # Mode Sombre (Slate) par défaut
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Mode Clair (au cas où)
+    - scheme: default
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs        # Menu en haut
+    - navigation.sections
+    - search.suggest         # Recherche style Google
+    - content.code.copy      # Bouton copier pour le code
+
+markdown_extensions:
+  - admonition               # Boites d'info
+  - pymdownx.highlight:      # Couleurs du code
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
